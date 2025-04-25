@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dog</title>
+</head>
+<body>
+        </div>
+    <script src="runtime.js" defer="">
+
+    </script>
+    <script src="common/build/polyfills-es5.js" nomodule="" defer="">
+
+    </script><script src="common/build/polyfills.js" defer="">
+
+    </script><script src="common/build/vendor.js" defer="">
+
+    </script>
+    <script src="common/build/main.js" defer=""></script>
+
+</body>
+    <iframe _ngcontent-tma-c21="" allowfullscreen="" class="iframe" title="GRSDog6" id="GRSDog6" src="https://virtual-games.virtustec.com//viewer/?displayId=GRSDog6&amp;allowStreaming=true&amp;hwId=CONTAINER254&amp;serverUrl=wss://virtual-proxy.virtustec.com&amp;provisioningUrl=https://virtual-games.virtustec.com/provisioning&amp;i18nUrl=https://virtual-games.virtustec.com/i18n&amp;noScale=false&amp;showJackpot=true" style="width: 999px;height: 531px;"></iframe>
+</body>
+</html>
